@@ -6,6 +6,6 @@ I'm Raul Ceron, a passionate Systems Engineering student at San Carlos de Guatem
 👯 I’m looking to collaborate on software projects that combine hardware and software or involve data management systems.
 🤔 I’m looking for help with expanding my skills in artificial intelligence and system optimization techniques.
 💬 Ask me about C programming, database design, or creative role-playing projects.
-📫 How to reach me: You can contact me via GitHub Discussions or email me at your_email@example.com.
+📫 How to reach me: You can contact me via GitHub Discussions or email me at raztreuzz1234@gmail.com
 ⚡ Fun fact: I’m also part of a role-playing game inspired by Overlord, where I’m discovering hidden powers in a dynamic storyline.
 Let's connect and build something amazing! 😊
